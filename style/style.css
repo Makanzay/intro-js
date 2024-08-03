@@ -1,0 +1,7 @@
+/* Setting up the whole page attitude */
+html{
+    box-sizing: border-box;
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+/* main work flow 
